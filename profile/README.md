@@ -1,6 +1,6 @@
 ## Welcome
 
-Currently operaeting as a freelance developer and voiceover artist. You're welcome to [Buy Me A Coffee](https://buymeacoffee.com/vagari), or [Ko-Fi](https://ko-fi.com/vagaridev), whichever spelling you prefer. 
+Currently operating as a freelance developer and voiceover artist. You're welcome to [Buy Me A Coffee](https://buymeacoffee.com/vagari), or [Ko-Fi](https://ko-fi.com/vagaridev), whichever spelling you prefer. 
 
 <!--
 **vagari/.github** is a ✨ _special_ ✨ repository because its `profile/README.md` (this file) appears on your GitHub profile.
